@@ -2,7 +2,7 @@ backend:
   name: github
   repo: zer0ttl/test-netlifycms-cf-pages
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://test-netlifycms-cf-pages.sudhirs.ca
+  base_url: https://test-netlifycms-cf-pages.pages.dev
   auth_endpoint: /api/auth
 media_folder: static/img
 public_folder: /img
